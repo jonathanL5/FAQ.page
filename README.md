@@ -1,2 +1,2 @@
-# aboutme.page
-about me page and link to game.page
+# faq.page
+frequently asked questions (not really) and link to quiz.page
