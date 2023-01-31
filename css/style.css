@@ -91,6 +91,10 @@ ul{
     justify-content: space-between;
 }
 
+.intro{
+    text-align: center;
+}
+
 .box{
     flex: 1;
     background: #FDA172;
@@ -114,4 +118,28 @@ ul{
         display: block;
         text-align: center;
     }
+}
+
+.msimg{
+    display: flex;
+    justify-content: center;
+}
+
+.message{
+    text-align: center;
+}
+
+.btn{
+    display:inline;
+    text-align: center;
+    padding: 0;
+    background:white;
+    border:lightgrey;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 25px;
+    font-weight: 500px;
+}
+
+.btn:hover{
+    color: blue;
 }
